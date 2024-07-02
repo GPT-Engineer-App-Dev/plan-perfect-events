@@ -5,6 +5,7 @@ import { Home, Calendar, Users, BarChart2, Settings } from "lucide-react";
 import { Route, BrowserRouter as Router, Routes } from "react-router-dom";
 import Layout from "./layouts/sidebar"; // Use the sidebar layout
 import Index from "./pages/Index.jsx";
+import BookTicket from "./pages/BookTicket.jsx";
 import Dashboard from "./pages/Dashboard.jsx";
 import Events from "./pages/Events.jsx";
 import Attendees from "./pages/Attendees.jsx";
